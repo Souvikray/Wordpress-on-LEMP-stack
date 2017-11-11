@@ -49,17 +49,17 @@ In the end, we will be also setting up a monitoring tool called 'monit' to monit
 
 <b> Activities </b>
 
-Set up a web server, an interpreter and a database
+- Set up a web server, an interpreter and a database
   
-Enable SSH based log in to the server  
+- Enable SSH based log in to the server  
   
-Set up wordpress sites for multiple users
+- Set up wordpress sites for multiple users
   
-Implement appropriate file permissions and configurations
+- Implement appropriate file permissions and configurations
   
-Monitor servers
+- Monitor servers
   
-Backup databases and site files periodically  
+- Backup databases and site files periodically  
 
 Note:
 
