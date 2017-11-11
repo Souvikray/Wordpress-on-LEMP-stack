@@ -47,7 +47,7 @@ The best part about Wordpress is that you don't have to spend hours creating a w
 
 In the end, we will be also setting up a monitoring tool called 'monit' to monitor the site activities and ensure all the components of the website are functioning properly.
 
-<b> Activities <b>
+<b> Activities </b>
 
 Set up a web server, an interpreter and a database
   
