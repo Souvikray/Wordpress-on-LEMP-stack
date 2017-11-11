@@ -1,4 +1,4 @@
-I am going to build a wordpress hosting platform running on a VPS.Below is one of the Wordpress websites running on a LEMP stack.
+I am going to build a wordpress hosting platform running on a VPS.Below is one of the Wordpress websites built on LEMP stack.
 
 www.jukeboxhero.xyz
 ![Alt text](https://github.com/Souvikray/Wordpress-on-LEMP-stack/blob/master/screenshot1.png?raw=true "Optional Title")
@@ -61,6 +61,11 @@ Monitor servers
   
 Backup databases and site files periodically  
 
+Note:
+
+For the domain name (jukeboxhero.xyz), I bought it form GoDaddy as the domain names are available at cheaper price and mapping the DNS to the IP address of the website is a very easy task with Godaddy.
+
+IP Address can be bought once you buy a space (called droplet in DigitalOcean) for yourself.You will be assigned an IP Address right away that you can use to log into your VPS.
 
 
 
