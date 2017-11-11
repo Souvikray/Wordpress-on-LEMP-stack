@@ -1,6 +1,0 @@
-Log into your VPS and perform the follwing commands
-```
-apt-get update
-apt-get upgrade
-```
-
