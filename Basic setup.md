@@ -27,6 +27,8 @@ systemctl status php7.0-fpm
 
 Similarly you can see the status of rest of the services by typing systemctl followed by the service name.Ensure that the status is displayed as 'active'.
 
+Note - To quit displaying the status, press 'q'
+
 
 
 
