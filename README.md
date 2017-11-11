@@ -57,7 +57,7 @@ In the end, we will be also setting up a monitoring tool called 'monit' to monit
   
 - Implement appropriate file permissions and configurations
   
-- Monitor servers
+- Monitor services
   
 - Backup databases and site files periodically  
 
