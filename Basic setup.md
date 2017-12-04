@@ -29,6 +29,10 @@ Similarly you can see the status of rest of the services by typing systemctl fol
 
 Note - To quit displaying the status, press 'q'
 
+To enable the above services at boot ie each time your system starts
+```
+systemctl enable nginx php7.0-fpm mysql monit
+```
 
 
 
