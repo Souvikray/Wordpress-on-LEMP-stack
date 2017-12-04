@@ -58,3 +58,19 @@ Restart monit and it's ready!
 ```
 systemctl restart monit
 ```
+Now the monit application is running and you can view it.
+
+To view the monitoring status, exit the server and type the command below.The command specifically tells ssh to forward the port 2812 used by monit on the server to our local machine at 1234.We can choose any port number for our local machine to view the status.
+```
+ssh -L 1234:localhost:2812
+```
+Now go to the browser and type in the following
+```
+localhost:1234
+```
+or
+```
+127.0.0.1:1234
+```
+You should be able to see something like this
+![Alt text](https://github.com/Souvikray/Wordpress-on-LEMP-stack/blob/master/screenshot6.png?raw=true "Optional Title")
