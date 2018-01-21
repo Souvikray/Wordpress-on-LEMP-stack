@@ -1,4 +1,4 @@
-I am going to build a wordpress hosting platform running on a VPS.Below is one of the Wordpress websites built on LEMP stack.
+I have built a wordpress hosting platform that run on a VPS and take care of various aspects like caching, logging, security and monitoring.It also automates the backup process which does a backup every 2 weeks.Below is one of the Wordpress websites built on LEMP stack.
 
 www.jukeboxhero.xyz
 ![Alt text](https://github.com/Souvikray/Wordpress-on-LEMP-stack/blob/master/screenshot1.png?raw=true "Optional Title")
