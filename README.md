@@ -35,8 +35,6 @@ Here I am using MySQL to store user data since it is stable, has been around for
 
 PHP FastCGI Process Manager (PHP-FPM) is an alternative FastCGI daemon for PHP that allows a website to handle serious loads. PHP-FPM maintains "pools" (workers available to respond to PHP requests) to accomplish this.PHP-FPM is faster than traditional CGI-based methods. It does not overload a system's memory with PHP from Apache processes.
 
-I am using php-fpm over apache for this set up.Nothing personal :)
-
 <b> Wordpress </b>
 
 WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.To function, WordPress has to be installed on a web server, which would either be part of an Internet hosting service or a network host in its own right.
